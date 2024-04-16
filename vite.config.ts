@@ -50,6 +50,7 @@ const vitePWA = VitePWA({
 });
 
 export default defineConfig({
+  base: "/",
   plugins: [react(), vitePWA],
   server: {
     port: 3000,
