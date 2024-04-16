@@ -1,0 +1,13 @@
+.btn {
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 5px;
+  border-radius: 5px;
+  color: #545454;
+  transition: .2s;
+}
+
+.btn:hover {
+  outline: 1px solid #ddd;
+}

@@ -1,0 +1,7 @@
+.input {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  outline: none;
+}

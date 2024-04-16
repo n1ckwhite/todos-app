@@ -1,0 +1,9 @@
+:root {
+  --padding: 20px;
+  --radius: 10px;
+  --width-300: 300px;
+  --px-80: 80px;
+  --px-64: 64px;
+  --load-color: #ddd;
+  --border-gainsboro: 1px solid gainsboro;
+}

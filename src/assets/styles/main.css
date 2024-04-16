@@ -1,0 +1,16 @@
+@import "_reset.css";
+@import "_variables.css";
+html, body {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: 400;
+}
+
+#root {
+  display: block;
+  height: 100%;
+}

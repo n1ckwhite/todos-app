@@ -1,0 +1,21 @@
+.todos {
+  min-width: 320px;
+  max-width: 400px;
+  margin: 0 auto;
+  background: #eee;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+
+.bottom {
+  margin-top: 10px;
+  gap: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+
