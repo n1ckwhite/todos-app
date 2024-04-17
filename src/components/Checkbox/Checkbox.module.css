@@ -1,18 +1,18 @@
 .input_checkbox {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #ddd;
+  border-bottom: var(--border-silver);
   justify-content: flex-start;
-  gap: 20px;
+  gap: var(--px-20);
   width: 100%;
   box-sizing: border-box;
   cursor: pointer;
   transition: .2s;
-  padding: 20px;
+  padding:var(--px-20);
 }
 
 .input_checkbox:hover {
-  outline: 1px solid #ddd;
+  outline: var(--border-silver);
 }
 
 .label {
@@ -33,7 +33,7 @@ input[type="checkbox"] {
   flex-shrink: 0;
   cursor: pointer;
   appearance: none;
-  background-color: #fff;
+  background-color: var(--white);
   margin: 0;
   font: inherit;
   color: currentColor;
