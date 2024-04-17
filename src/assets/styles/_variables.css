@@ -1,9 +1,9 @@
 :root {
-  --padding: 20px;
-  --radius: 10px;
-  --width-300: 300px;
-  --px-80: 80px;
-  --px-64: 64px;
-  --load-color: #ddd;
-  --border-gainsboro: 1px solid gainsboro;
+  --px-20: 20px;
+  --width-320: 320px;
+  --width-400: 400px;
+  --border-silver: 1px solid #ddd;
+  --typography-text: normal 400 14px / 18px sans-serif;
+  --color-silver: #545454;
+  --white: #ffffff;
 }

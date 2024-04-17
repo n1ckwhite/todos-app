@@ -1,13 +1,11 @@
 .btn {
-  font-family: inherit;
-  font-size: 14px;
-  line-height: 18px;
+  font: var(--typography-text);
   padding: 5px;
   border-radius: 5px;
-  color: #545454;
+  color: var(--color-silver);
   transition: .2s;
 }
 
 .btn:hover {
-  outline: 1px solid #ddd;
+  outline: var(--border-silver);
 }

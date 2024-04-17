@@ -1,7 +1,7 @@
 .input {
   width: 100%;
-  padding: 20px;
-  border: 1px solid #ddd;
+  padding: var(--px-20);
+  border: var(--border-silver);
   box-sizing: border-box;
   outline: none;
 }
